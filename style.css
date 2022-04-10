@@ -1,0 +1,92 @@
+.body {
+  font-family: "Ubuntu", sans-serif;
+  margin-left: 0;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 30px;
+}
+section {
+  display: flex;
+  margin-top: 100px;
+}
+.first-part {
+  align-items: center;
+  margin: 40px;
+}
+.skip-color {
+  color: orange;
+}
+.half-width {
+  width: 50%;
+ 
+}
+.banner {
+  background-image: url(images/shapes/7.png);
+}
+
+.half-width img {
+  width: 50%;
+  
+  
+}
+
+.order-button {
+  text-decoration: none;
+  padding: 15px 40px;
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(orange, red);
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 30px;
+}
+
+
+.my-recipe{
+  text-align: center;
+  font-style: bold;
+  font-size:  30px;;
+  
+}
+.third-section{
+display: flex;
+margin-top: 100px;
+}
+.divide{
+  width: 30%;
+}
+
+.divide img{
+  width: 100%;
+}
+.recipe{
+  border: 20px;
+ box-shadow: 10px 10px 40px;
+ margin: 30px;
+ padding: 30px;
+ font-size: 15px;
+ border-radius: 30px;
+}
+.count{
+  margin-top: 150px;
+  
+  box-shadow: 10px 20px 40px grey;
+ align-items: center;
+}
+.forth-section{
+  display: flex;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 30px;
+  width: 75%;
+
+
+}
+.forth{
+  padding-left: 8%;
+  align-items: center;
+}
