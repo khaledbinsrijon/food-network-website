@@ -27,8 +27,9 @@ section {
   background-image: url(images/shapes/7.png);
 }
 
+
 .half-width img {
-  width: 50%;
+  width: 65%;
   
   
 }
@@ -68,12 +69,7 @@ margin-top: 100px;
  font-size: 15px;
  border-radius: 30px;
 }
-.count{
-  margin-top: 150px;
-  
-  box-shadow: 10px 20px 40px grey;
- align-items: center;
-}
+
 .forth-section{
   display: flex;
   margin-left: 15%;
